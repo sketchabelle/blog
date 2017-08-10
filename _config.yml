@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Sketchabelle
 email: sketchabelle@gmail.com
-description: > Sketchabelle blog
-
+description: "Sketchabelle blog"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://sketchabelle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sketchabelle
@@ -26,7 +25,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-gems:
   - jekyll-json-feed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
