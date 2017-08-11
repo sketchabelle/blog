@@ -15,9 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Sketchabelle
 email: sketchabelle@gmail.com
-description: "Sketchabelle blog"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://sketchabelle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+name: Sketchabelle
+description: Sketchabelle’s Blog
+url: http://sketchabelle.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sketchabelle
 
 # Build settings
