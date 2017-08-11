@@ -8,5 +8,5 @@ type: post
 published: true
 ---
 
-**** Example post
+## Example post
 > "this a post about _copyright_"
