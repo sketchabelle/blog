@@ -3,14 +3,14 @@
 
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": {{ site.title | append: " Miscellaneous" | jsonify }},
-  "description": "Posts categorized as 'miscellaneous'",
+  "title": {{ site.title | append: " posts" | jsonify }},
+  "description": "Posts categorized as 'posts'",
   "home_page_url": "{{ site.url }}",
-  "feed_url": "{{ site.url }}/feed.miscellaneous.json",
+  "feed_url": "{{ site.url }}/feed.posts.json",
   "favicon": "{{ site.url}}/favicon.png",
   {% if site.author %}
   "author": {
-    "name": "{{ site.author | jsonify }}"
+    "name": {{ site.author | jsonify }}
   },
   {% endif %}
   "items": [
