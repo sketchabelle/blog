@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 status: draft
 categories: pages
@@ -61,5 +61,3 @@ Please read carefully before downloading, linking to, or printing copies for use
     * Any other useful information
 
   Any commercial use of artwork by {{ site.author }} without prior consent is a violation of United Kingdom and International copyright law.
-
-
