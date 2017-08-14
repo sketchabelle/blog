@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copyright
+title: A post on copyright
 status: draft
 categories: posts
 date: '2017-08-09 13:03:01 +0x§100'
