@@ -20,6 +20,10 @@ name: Sketchabelle
 description: Sketchabelle’s Blog
 url: http://sketchabelle.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sketchabelle
+sitedomain: sketchabelle.com
+accounts: https://www.instagram.com/sketchabelle/, https://www.instagram.com/annabelxrose/, https://www.youtube.com/watch?v=pqi-336GExI
+aliases: "@sketchabelle // @annabelxrose"
+author: Annabel Pepper
 
 # Build settings
 markdown: kramdown
