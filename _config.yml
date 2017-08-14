@@ -27,6 +27,8 @@ author: Annabel Pepper
 
 # Build settings
 markdown: kramdown
+entity_output:  as_char
+
 theme: minima
 plugins:
   - jekyll-feed
