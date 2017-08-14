@@ -28,7 +28,7 @@ author: Annabel Pepper
 # Build settings
 markdown: kramdown
 entity_output:  as_char
-
+toc_levels:     2..6
 theme: minima
 plugins:
   - jekyll-feed
