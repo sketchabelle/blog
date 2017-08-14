@@ -29,19 +29,19 @@ Please read carefully before downloading, linking to, or printing copies for use
 
     The following are a list of conditions where {{ site.author }}, give’s individuals permission to link to (or copy) images and other material, without further permission and at no charge:
 
-  - Printing a copy of any artwork for personal reference.
+    - Printing a copy of any artwork for personal reference.
 
-  - Students downloading artwork and incorporate them into school reports, presentations, etc. so long as proper credit/citation is given.
+    - Students downloading artwork and incorporate them into school reports, presentations, etc. so long as proper credit/citation is given.
 
-  - Anybody can download images for the express use of displaying them on screen, so long as it is not being used for commercial or public viewing purposes.
+    - Anybody can download images for the express use of displaying them on screen, so long as it is not being used for commercial or public viewing purposes.
 
 1. ### Free Web Usage Criteria
 
     The following conditions define {{ site.author }}’s authorisation for use of artwork on the Web, free of charge, so long as proper attribution of copyright is given to her and include's {{ site.author }} or her {{ site.aliases }} in said attribution:
     
-  - You may **LINK** to the images on pages you maintain for yourself for personal, non-commercial use.
+    - You may **LINK** to the images on pages you maintain for yourself for personal, non-commercial use.
 
-  - If you are preparing **FREE** online site guides for other artists, bloggers and art forums, you may make use of these images, **BUT ONLY IF YOU ATTRIBUTE THEM AS DESCRIBED ABOVE.**
+    - If you are preparing **FREE** online site guides for other artists, bloggers and art forums, you may make use of these images, **BUT ONLY IF YOU ATTRIBUTE THEM AS DESCRIBED ABOVE.**
 
 1. ### Commercial Use
 
@@ -49,16 +49,16 @@ Please read carefully before downloading, linking to, or printing copies for use
 
     In that message the following should be addressed:
 
-  - Image(s) you would like to use
+    - Image(s) you would like to use
 
-  - Where it / they will be displayed
+    - Where it / they will be displayed
 
-  - How it / they will be displayed
+    - How it / they will be displayed
 
-  - Intent of it's / their display
+    - Intent of it's / their display
 
-  - Duration of it's / their public viewing
+    - Duration of it's / their public viewing
 
-  - Any other useful information
+    - Any other useful information
 
     Any commercial use of artwork by {{ site.author }} without prior consent is a violation of United Kingdom and International copyright law.
