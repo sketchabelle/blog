@@ -1,0 +1,28 @@
+---
+published: false
+layout: post
+status: draft
+categories: pages
+date: '2017-08-14 12:00:01'
+type: post
+---
+## A heading for the home page
+
+Go to [prose.io](http://prose.io/#sketchabelle/blog/) and login using your GitHub account credentials.
+
+1. Create a new _post_ 
+
+	
+    - In either \_posts or \_drafts folder - use the green new file button to create an _untitled_ file
+ 	
+    - Save the file with the title at the top in the format it shows, but change the 'untitled' bit to something meaningful about the content (without spaces, or any of the following characters / \ & " ' ' ‘’ ’ ‘ “ ”)
+    
+    - Once saved, Change the name (at the top) from the combination of date and file name. Make this a title that you wpuld like the link to be when in a list. 
+    
+    - Enter text in Markdown - [cheat sheet here](http://daringfireball.net/projects/markdown/). 
+    - Use the toolbar above, or click the **?** button for formatting help.
+    
+		_Hints:_ 
+   
+	    - leave a blank line after any formatting;
+    	- use the tab key for indenting
