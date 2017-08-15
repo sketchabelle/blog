@@ -6,14 +6,20 @@ categories: pages
 date: '2017-08-14 12:00:01'
 type: post
 ---
-## Copyright Statement
+# Copyright Statement
+{:.no_toc}
 
 This copyright statement applies to all artwork & images of artwork found on
 {{ site.sitedomain }}, it’s sub-domains, and content from associated accounts ({{ site.accounts }}, etc).
 
 Please read carefully before downloading, linking to, or printing copies for use.
-    
-1. ### Proprietary Rights
+
+<!--excerpt-->
+
+* TOC
+{:toc}
+
+1. ## Proprietary Rights
 
     The content, artworks and images of artwork contained on {{ site.sitedomain }}, it’s sub-domains and associated accounts ({{ site.accounts }}, etc), are the property of {{ site.author }} (<abbr title="also known as">aka</abbr> {{ site.aliases }}) and are protected by United Kingdom and International copyright laws.
 
@@ -25,7 +31,7 @@ Please read carefully before downloading, linking to, or printing copies for use
 
     **Your use of {{ site.sitedomain }}, it’s sub-domains and associated accounts ({{ site.accounts }}, etc) or viewing of this statement indicates your acceptance of these conditions.**
 
-1. ### Personal Use Criteria
+1. ## Personal Use Criteria
 
     The following are a list of conditions where {{ site.author }}, give’s individuals permission to link to (or copy) images and other material, without further permission and at no charge:
 
@@ -35,15 +41,15 @@ Please read carefully before downloading, linking to, or printing copies for use
 
     - Anybody can download images for the express use of displaying them on screen, so long as it is not being used for commercial or public viewing purposes.
 
-1. ### Free Web Usage Criteria
+1. ## Free Web Usage Criteria
 
     The following conditions define {{ site.author }}’s authorisation for use of artwork on the Web, free of charge, so long as proper attribution of copyright is given to her and include's {{ site.author }} or her {{ site.aliases }} in said attribution:
-    
+
     - You may **LINK** to the images on pages you maintain for yourself for personal, non-commercial use.
 
     - If you are preparing **FREE** online site guides for other artists, bloggers and art forums, you may make use of these images, **BUT ONLY IF YOU ATTRIBUTE THEM AS DESCRIBED ABOVE.**
 
-1. ### Commercial Use
+1. ## Commercial Use
 
     Those persons who wish to use the artwork found on this site in commercially **must** receive written consent from {{ site.author }}, prior to use. To obtain consent, interested parties should contact {{ site.author }} via by direct message on Instagram / YouTube using the appropriate user name {{ site.aliases }}.
 
