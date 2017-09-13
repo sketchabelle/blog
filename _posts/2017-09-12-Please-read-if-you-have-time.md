@@ -1,6 +1,7 @@
 ---
 published: true
 categories: posts
+pin: true
 date: '2017-09-12 16:00:01 +0100'
 ---
 ## Myalgic Encephalomyelitis / Chronic Fatigue Syndrome
@@ -9,7 +10,7 @@ I originally wrote the following on an [Instagram post](https://www.instagram.co
 
 <!--excerpt-->
 
-I have <abbr title="Myalgic Encephalomyelitis / Chronic Fatigue Syndrome">ME/CFS</abbr>. I am telling you this now because it’s an illness that I feel not many people know about, or understand. 
+I have <abbr title="Myalgic Encephalomyelitis / Chronic Fatigue Syndrome">ME/CFS</abbr>. I am telling you this now because it’s an illness that I feel not many people know about, or understand.
 
 Myalgic Encephalomyelitis / Chronic Fatigue Syndrome is a long-term condition. It affects an estimated 250,000 people in the UK, and around 17 million people worldwide.
 
