@@ -1,0 +1,39 @@
+---
+published: true
+categories: posts
+pin: true
+date: '2017-09-12 16:00:01 +0100'
+---
+## Myalgic Encephalomyelitis / Chronic Fatigue Syndrome
+
+I originally wrote the following on an [Instagram post](https://www.instagram.com/p/BUAIW9yFQRO/) for International ME/CFS, Fibromyalgia (FM) and Multiple Chemical Sensitivity (MSC) Awareness Day, on the 12th May 2017.
+
+<!--excerpt-->
+
+I have <abbr title="Myalgic Encephalomyelitis / Chronic Fatigue Syndrome">ME/CFS</abbr>. I am telling you this now because it’s an illness that I feel not many people know about, or understand.
+
+Myalgic Encephalomyelitis / Chronic Fatigue Syndrome is a long-term condition. It affects an estimated 250,000 people in the UK, and around 17 million people worldwide.
+
+> There is currently no cure or treatment yet for ME/CFS.
+
+People with ME/CFS experience severe, persistent fatigue and their body finds it hard to recover even after using small amounts of energy. This leads to the symptoms flaring-up - see the list on [my drawing](https://www.instagram.com/p/BUAIW9yFQRO/) for what I experience.
+
+This condition isn’t the same for everyone who has it. Not everyone will experience the same symptoms, and not everyone has it for the same amount of time – it varies from person to person, and not everyone suffers to the same degree. You can have it mild, moderate or severe ME/CFS. Some people can make a full recovery, but others will remain ill and may not get better. Some people have such severe symptoms that they are permanently bedbound.
+
+There is currently no cure or treatment yet for ME/CFS and there’s little research as to what causes it. People that have it just try to learn to live with it. You need to learn how to pace yourself, to learn what your limit is and to make sure that (when you are doing something) you don’t use up all your energy.
+
+I was diagnosed with Post Viral Fatigue early in 2015 when I started to feel increasingly ill and my attendance at school dropped. I went to the doctors a lot and I had many tests done to try and see what was wrong with me, but nothing was found. Because I remained ill, by late 2015 I was diagnosed as having ME/CFS.
+
+Having this condition means I can’t do much, whether its physically, mentally or emotionally, as it takes up too much energy. I can’t participate in the things that the average teen can, such as socialise, go out, and I’m currently unable to attend school. I’ve barely been into school since December, and before that I was on a part-time timetable for two years.
+
+However, I am now receiving home tuition, 2 lessons for 40 mins per week, which may mean I won’t be drawing as much.
+
+My day usually consists of getting up and going downstairs for breakfast. I then sit/lay on the sofa and watch TV or read. At around 12:30 I’ll get up and do something – usually drawing – for about an hour (sometimes more). I then have lunch and go back to the sofa to rest. I have to try to go on a walk once a day for around 15 mins, which is normally the only time I get out the house. If I’m feeling up to it, I might do some more drawing later in the evening.
+
+What I can do is very limited and I need be careful that I don’t do too much otherwise it will make the condition worse and my symptoms will flare up.
+
+I always try to find something positive in bad situations. In this situation, I believe that if I didn’t have ME/CFS I probably wouldn’t be at this level with my art. Since my first diagnosis I started to draw more often, and it’s now one of the things that I look forward to doing and being able to do.
+
+I’m telling you this not because I want pity or sympathy, but I wanted to tell you so that you’d know more about me and understand why I draw so much and why I started to draw more. I also want to thank a lot of you. If I didn’t have my Instagram account, or this many amazing people who support me, I don’t think that I’d socialize, or engage with people. If any of you have anything like this, I’m here to talk - just [DM me on Instagram](https://www.instagram.com/sketchabelle/).
+
+Thank you for reading, Annabel.

@@ -15,7 +15,7 @@
   {% endif %}
   "items": [
 
-    {% for post in site.categories.pages limit:10 %}
+    {% for post in site.categories.pages %}
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
