@@ -3,10 +3,10 @@ published: true
 layout: post
 status: draft
 categories: pages
+title: Copyright Statement
 date: '2017-08-14 12:00:01'
 type: post
 ---
-# Copyright Statement
 {:.no_toc}
 
 This copyright statement applies to all artwork & images of artwork, created by {{ site.author }} and found on
