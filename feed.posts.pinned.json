@@ -19,6 +19,7 @@
       {% for post in posts %}
       {
         "pin": {{ post.pin }},
+        {% if post.icon != true %}"icon": "{{ post.icon }}",{% endif %}
         "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
         "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
         "title": {{ post.title | jsonify }},
